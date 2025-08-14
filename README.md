@@ -8,7 +8,7 @@ Este proyecto aplica técnicas de Machine Learning para predecir la cancelación
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10Xpa066vNH16a2OF4JLPOtnVoTDC5ICL?usp=sharing)
 
 
-https://colab.research.google.com/drive/1akkxoBnClEG4ZcsJdhxSSZas5S6Ym2xY?usp=sharing
+https://colab.research.google.com/drive/10Xpa066vNH16a2OF4JLPOtnVoTDC5ICL?usp=sharing
 ## 📚 Índice
 
 - [🔍 Introducción](#introducción)
