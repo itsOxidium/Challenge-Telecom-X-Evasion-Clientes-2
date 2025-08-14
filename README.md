@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/10Xpa066vNH16a2OF4JLPOtnVoTDC5ICL?usp=sh
 - [📈 Visualizaciones](#visualizaciones)
 - [🧠 Conclusiones](#conclusiones)
 - [🚀 Recomendaciones](#recomendaciones)
-- [📁 Estructura del repositorio](#estructura-del-repositorio)
+
 
 ---
 
